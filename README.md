@@ -1,3 +1,15 @@
+#Assumptions 
+It was assumed once the user logs in, they are directed to the dashboard. If not redirected to 
+login page.
+
+#Some errors/incomplete stuff: 
+
+Once the user logs in, the login page fetches all user names, ids etc. However, it is fetched 
+in 2nd or 3rd attempt. (Please check the console).
+
+Dashboard is incomplete.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
